@@ -1,2 +1,2 @@
 # README
-A simple blog build on Rails.
+A simple blog build on Rails
